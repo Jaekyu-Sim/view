@@ -1,0 +1,9 @@
+shop\AbstractEvent.class
+shop\OrderlistViewHandler.class
+shop\OrderlistRepository.class
+shop\AbstractEvent$1.class
+shop\config\kafka\KafkaProcessor.class
+shop\PolicyHandler.class
+shop\Orderlist.class
+shop\Ordered.class
+shop\ViewApplication.class
